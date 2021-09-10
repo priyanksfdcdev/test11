@@ -1,5 +1,9 @@
 public class aaa{
 
-public aaa(){}
+public aaa(){
+
+system.debug('test1');
+
+}
 
 }
