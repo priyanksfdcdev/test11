@@ -2,7 +2,7 @@ public class aaa{
 
 public aaa(){
 
-system.debug('test1');
+system.debug('test122');
 
 }
 
